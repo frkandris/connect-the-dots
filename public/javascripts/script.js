@@ -77,6 +77,7 @@ function render() {
         ctx.stroke();
     }
 
+    $('#pointStorage').val(existingPoints);
 
 }
 
